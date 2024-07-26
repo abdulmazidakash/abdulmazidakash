@@ -34,10 +34,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS/MongoDB
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&show_icons=true&count_private=true)  
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=midnight-purple&hide_border=false)<br/>
