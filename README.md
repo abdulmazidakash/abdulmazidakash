@@ -21,56 +21,28 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Web Developing**
-
-💬 Ask me about **HTML, CSS... [here](https://github.com/abdulmazidakash)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="https://linkedin.com/in/abdulmazidakash" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://abdulmazidakash.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
+#### A passionate Web developer from Bangladesh
+![A passionate Web developer from Bangladesh](banner. png)
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-abdulmazidakash.vercel.app/?user=abdulmazidakash&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-abdulmazidakash.vercel.app/api?username=abdulmazidakash&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-abdulmazidakash.vercel.app/api/top-langs/?username=abdulmazidakash&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+Skills: VUE JS / REACT / JS / HTML / CSS/MongoDB
 
-<br/><br/>
+- 🔭 I’m currently working on this page. 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Developing 
 
-<hr/>
 
-<br/>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdulmazidakash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abdulmazidakash//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/akashabdulmazid/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/abdulmazidakash//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/abdulmazidakash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@abdulmazidakash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/abdulmazidakash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abdulmazidakash.blogspot.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='40'>](https://www.quora.com/profile/Abdul-Mazid-Akash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg' alt='pinterest' height='40'>](https://www.pinterest.com/abdulmazidakash/)  
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdulmazidakash)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/abdulmazidakash/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/abdulmazidakash)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=abdulmazidakash)  
+
