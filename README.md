@@ -15,10 +15,6 @@
 <br/>
 
 <h1 align="center"> A passionate Web developer from Bangladesh <h1/>
-<br/>
-<p>🔭 I’m currently working on this page. <br/>
-👯 I’m looking to collaborate on GitHub<br/> 
-💬 Ask me about Web Developing</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
