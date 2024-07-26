@@ -38,8 +38,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS/MongoDB
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulmazidakash&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abdulmazidakash&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=abdulmazidakash&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
