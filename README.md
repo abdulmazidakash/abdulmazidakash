@@ -16,10 +16,11 @@
 
 <h1 align="center"> A passionate Web developer from Bangladesh <h1/>
 <br/>
-###
-- 🔭 I’m currently working on this page. 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Developing
+<ul>
+<li>🔭 I’m currently working on this page. </li> 
+<li>👯 I’m looking to collaborate on GitHub </li>
+<li>💬 Ask me about Web Developing</li>
+</ul>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
