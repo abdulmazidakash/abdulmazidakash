@@ -16,7 +16,7 @@
 
 <h1 align="center"> A passionate Web developer from Bangladesh <h1/>
 <br/>
-<ul>
+<ul style="font-size=20px";>
 <li>🔭 I’m currently working on this page. </li> 
 <li>👯 I’m looking to collaborate on GitHub </li>
 <li>💬 Ask me about Web Developing</li>
