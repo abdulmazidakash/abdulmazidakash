@@ -48,9 +48,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdulmazidakash&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4) -->
 
+<!--
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=abdulmazidakash&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=abdulmazidakash&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true) -->
 
 ---
 
