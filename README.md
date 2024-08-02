@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/5dfb29d6bb88dc1187d7b427332b840f436f194219b8984450be7fb6a56faf97/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d6f6d696e612d736865696b682d646576267468656d653d6769746875622d636f6d70616374" alt="momina-sheikh-dev github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=momina-sheikh-dev&amp;theme=github-compact" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/5dfb29d6bb88dc1187d7b427332b840f436f194219b8984450be7fb6a56faf97/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6d6f6d696e612d736865696b682d646576267468656d653d6769746875622d636f6d70616374" alt="abdul-mazid-akash github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-mazid-akash&amp;theme=github-compact" style="max-width: 100%;">
 
 <div align="center">
 
@@ -48,11 +48,15 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-### 📊 GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=midnight-purple&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=abdulmazidakash&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
