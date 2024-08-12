@@ -20,7 +20,32 @@
 <br/>
 
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
-<p>A passionate Web developer from Bangladesh</p>
+
+<p>👋 Hi there! I'm Abdul Mazid Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
+
+<h2>💻 What I Do:</h2>
+<ul>
+  <li><strong>Frontend Development:</strong> Expertise in HTML, CSS, JavaScript, and frameworks like React and Vue.js.</li>
+  <li><strong>Design Implementation:</strong> Translating designs into pixel-perfect, responsive web applications.</li>
+  <li><strong>Performance Optimization:</strong> Ensuring fast, efficient, and smooth user experiences.</li>
+  <li><strong>Collaborative Problem Solving:</strong> Working closely with teams to deliver high-quality solutions.</li>
+</ul>
+
+<h2>🔧 Technologies I Use:</h2>
+<ul>
+  <li><strong>Languages:</strong> HTML, CSS, JavaScript</li>
+  <li><strong>Frameworks/Libraries:</strong> React, Vue.js, Tailwind CSS</li>
+  <li><strong>Tools:</strong> Git, Webpack, Babel, npm/yarn</li>
+</ul>
+
+<h2>🌟 Passionate About:</h2>
+<ul>
+  <li>Staying up-to-date with the latest web technologies and trends.</li>
+  <li>Creating accessible and inclusive web applications.</li>
+  <li>Continually improving my skills and knowledge.</li>
+</ul>
+
+<p>🚀 Let's connect! Feel free to reach out if you're interested in collaborating on exciting projects or want to chat about the latest web development.</p>
 
 <hr/>
 
