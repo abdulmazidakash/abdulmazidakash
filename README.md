@@ -23,12 +23,24 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<!-- 
 <h3 align="center">🌐 Social Media:</h3>
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/akashabdulmazid/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdulmazidakash/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmazidakash/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/abdulmazidakash/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Abdul-Mazid-Akash) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/abdulmazidakash/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdulmazidakash) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@abdulmazidakash)  -->
 
+<h3 align="center">Social Media:</h3>
+<p align="center" dir="auto"> 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/akashabdulmazid/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdulmazidakash/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmazidakash/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/abdulmazidakash/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Abdul-Mazid-Akash) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/abdulmazidakash/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdulmazidakash) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@abdulmazidakash) 
+<a hrref="https://www.facebook.com/akashabdulmazid/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="facebook" width="60" height="60"/> </a>
+<a hrref="https://www.instagram.com/abdulmazidakash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=7QPcOVZoGlmf&format=png&color=006d32" alt="instagram" width="60" height="60"/> </a> 
+<a hrref="https://www.linkedin.com/in/abdulmazidakash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="linkedin" width="60" height="60"/> </a> 
+<a hrref="https://www.pinterest.com/abdulmazidakash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" alt="pinterest" width="60" height="60"/> </a> 
+<a hrref="https://www.quora.com/profile/Abdul-Mazid-Akash" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" alt="quora" width="60" height="60"/> </a> 
+<a hrref="https://www.reddit.com/user/abdulmazidakash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=006d32" alt="reddit" width="60" height="60"/> </a> 
+<a hrref="https://x.com/abdulmazidakash" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=006d32" alt="x" width="60" height="60"/> </a> 
+<a hrref="https://www.youtube.com/@abdulmazidakash" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="youtube" width="60" height="60"/> </a>
+
+</p>
 
 <br/>
 <hr/>
@@ -36,8 +48,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" dir="auto"> 
-
-<a hrref="https://www.linkedin.com/in/abdulmazidakash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=118467&format=png&color=006d32" alt="bootstrap" width="40" height="40"/> </a> 
 
 <a hrref="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="40"/> </a>
 <a hrref="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="40"/> </a> 
