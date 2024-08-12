@@ -102,6 +102,8 @@
 
 
 
+
+
 <table style="width: 100%; border-collapse: collapse;">
 	<tr>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -111,49 +113,51 @@
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="#" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://via.placeholder.com/50" alt="Image 2" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="#" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://via.placeholder.com/50" alt="Image 3" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="#" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://via.placeholder.com/50" alt="Image 4" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="#" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://via.placeholder.com/50" alt="Image 5" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="#" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://via.placeholder.com/50" alt="Image 6" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="#" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://via.placeholder.com/50" alt="Image 7" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="#" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://via.placeholder.com/50" alt="Image 8" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="#" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://via.placeholder.com/50" alt="Image 9" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="#" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://via.placeholder.com/50" alt="Image 10" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
+	  
 	</tr>
   </table>
+  
   
