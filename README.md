@@ -48,7 +48,7 @@
 <p>🚀 Let's connect! Feel free to reach out if you're interested in collaborating on exciting projects or want to chat about the latest web development.</p>
 
 <hr/>
-<h3 style="width: 100%; margin-bottom: 5; text-align: center; padding: 0; border: 1px solid #ccc; font-size: 20rem;">Social Media</h3>
+<h3 style="width: 100%; border-collapse: collapse;">Social Media</h3>
 <table style="width: 100%; border-collapse: collapse;">
 	<tbody>
 	  <tr>
