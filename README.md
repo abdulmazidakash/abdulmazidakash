@@ -88,21 +88,79 @@
 <br/>
 <hr/>
 
+<table style="width: 100%; border-collapse: collapse;">
+	<h3 align="center">Languages and Tools</h3>
+	<tbody>
+	<tr>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://www.w3.org/html/" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://www.w3schools.com/css/" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="instagram" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://getbootstrap.com" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://camo.githubusercontent.com/9ee806be83385d8b6a369a74cb1fc746644521a279ba959174ce5b9e75caf384/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" alt="bootstrap" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="javascript" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://www.mongodb.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://nodejs.org" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://reactjs.org/" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="react" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://tailwindcss.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://git-scm.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		<a href="https://www.figma.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
+		  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="width: 100%; height: auto; display: block;">
+		</a>
+	  </td>
+	</tr>
+</tbody>
+<tfoot>
+	<tr>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">HTML</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">CSS</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Bootstrap</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">JavaScript</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">MongoDB</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Node Js</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">React</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Tailwind CSS</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Git</td>
+	  <td style="width: 10%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Figma</td>
+	</tr>
+  </tfoot>
+</table>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center" dir="auto"> 
 
-<a hrref="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="40"/> </a>
-<a hrref="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="40"/> </a> 
-<a hrref="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9ee806be83385d8b6a369a74cb1fc746644521a279ba959174ce5b9e75caf384/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" alt="bootstrap" width="80" height="40"/> </a> 
-<a hrref="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="javascript" width="80" height="40"/> </a> 
-<a hrref="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="40"/> </a> 
-<a hrref="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="40"/> </a> 
-<a hrref="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="react" width="80" height="40"/> </a> 
-<a hrref="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="90" height="40"/> </a>
-<a hrref="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="40"/> </a> 
-<a hrref="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="40"/> </a> 
-</p>
 
 <br/>
 <hr/>
