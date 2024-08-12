@@ -100,22 +100,15 @@
 
 <!-- GitHub Profile README.md -->
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-
-	<div style="flex: 1; min-width: 30%; margin: 1%; background-color: #fff5b1; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
-	  <h3>Card 1</h3>
-	  <p>Details about card 1.</p>
-	</div>
-  
-	<div style="flex: 1; min-width: 30%; margin: 1%; background-color: #b1f5ff; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
-	  <h3>Card 2</h3>
-	  <p>Details about card 2.</p>
-	</div>
-  
-	<div style="flex: 1; min-width: 30%; margin: 1%; background-color: #f5b1ff; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
-	  <h3>Card 3</h3>
-	  <p>Details about card 3.</p>
-	</div>
-  
-  </div>
-  
+<table>
+	<tr>
+	  <td style="background-color:#f0f0f0; padding:10px; border-radius:8px;">
+		<h3>Column 1</h3>
+		<p>Content for the first column.</p>
+	  </td>
+	  <td style="background-color:#e0e0e0; padding:10px; border-radius:8px;">
+		<h3>Column 2</h3>
+		<p>Content for the second column.</p>
+	  </td>
+	</tr>
+  </table>
