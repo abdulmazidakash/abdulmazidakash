@@ -27,7 +27,7 @@
 <h3 align="center">🌐 Social Media:</h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/akashabdulmazid/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdulmazidakash/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmazidakash/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/abdulmazidakash/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Abdul-Mazid-Akash) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/abdulmazidakash/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdulmazidakash) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@abdulmazidakash)  -->
-
+<!--
 <h3 align="center">Social Media:</h3>
 <p align="center" dir="auto"> 
 
@@ -40,7 +40,70 @@
 <a hrref="https://x.com/abdulmazidakash" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=006d32" alt="x" width="50" height="50"/> </a> 
 <a hrref="https://www.youtube.com/@abdulmazidakash" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="youtube" width="50" height="50"/> </a>
 
-</p>
+</p>-->
+
+
+
+<table style="width: 100%; border-collapse: collapse;">
+	<caption style="caption-side: top; font-weight: bold; font-size: 1.2em; padding: 10px;">My Responsive Table Caption</caption>
+	<tbody>
+	  <tr>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.facebook.com/akashabdulmazid/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="facebook" style="width: 100%; height: auto; display: block;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.instagram.com/abdulmazidakash/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=7QPcOVZoGlmf&format=png&color=006d32" alt="Instagram" style="width: 100%; height: auto; display: block;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.linkedin.com/in/abdulmazidakash/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="linkedin" style="width: 100%; height: auto; display: block;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.pinterest.com/abdulmazidakash/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" alt="pinterest" style="width: 100%; height: auto; display: block;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.quora.com/profile/Abdul-Mazid-Akash" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" alt="quora" style="width: 100%; height: auto; display: block;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.reddit.com/user/abdulmazidakash/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=006d32" alt="reddit" style="width: 100%; height: auto; display: block;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://x.com/abdulmazidakash" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=006d32" alt="x" style="width: 100%; height: auto; display: block;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.youtube.com/@abdulmazidakash" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="youtube" style="width: 100%; height: auto; display: block;">
+		  </a>
+		</td>
+	  </tr>
+	</tbody>
+	<tfoot>
+		<tr>
+		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Facebook</td>
+		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Instagram</td>
+		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">LinkedIn</td>
+		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Pinterest</td>
+		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Quora</td>
+		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Reddit</td>
+		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">X</td>
+		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Youtube</td>
+		</tr>
+	  </tfoot>
+  </table>
+  
 
 <br/>
 <hr/>
