@@ -100,19 +100,16 @@
 
 <!-- GitHub Profile README.md -->
 
-<table>
-	<tr>
-	  <td style="background-color:#d0e1f9; padding:5; border-radius:8;">
-		<h3>Column 1</h3>
-		<p>Content for the first column.</p>
-	  </td>
-	  <td style="background-color:teal; padding:5; border-radius:8;">
-		<h3>Column 2</h3>
-		<p>Content for the second column.</p>
-	  </td>
-	  <td style="background:#d0f9d6; padding:5; border-radius:8;">
-		<h3>Column 3</h3>
-		<p>Content for the third column.</p>
-	  </td>
-	</tr>
-  </table>
+<div style="display: grid; grid-template-columns: repeat(10, 1fr); gap: 10px;">
+	<div style="background-color: lightblue;">Column 1</div>
+	<div style="background-color: lightgreen;">Column 2</div>
+	<div style="background-color: lightgreen;">Column 3</div>
+	<div style="background-color: lightgreen;">Column 4</div>
+	<div style="background-color: lightgreen;">Column 5</div>
+	<div style="background-color: lightgreen;">Column 6</div>
+	<div style="background-color: lightgreen;">Column 7</div>
+	<div style="background-color: lightgreen;">Column 8</div>
+	<div style="background-color: lightgreen;">Column 9</div>
+	<div style="background-color: lightgreen;">Column 10</div>
+	</div>
+  
