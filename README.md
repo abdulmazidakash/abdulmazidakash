@@ -131,7 +131,7 @@
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://getbootstrap.com" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://camo.githubusercontent.com/9ee806be83385d8b6a369a74cb1fc746644521a279ba959174ce5b9e75caf384/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" alt="bootstrap" style="width: 90%; height: auto; display: block;">
+		  <img src="https://camo.githubusercontent.com/9ee806be83385d8b6a369a74cb1fc746644521a279ba959174ce5b9e75caf384/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" alt="bootstrap" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -141,7 +141,7 @@
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://www.mongodb.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 90%; height: auto; display: block;">
+		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
