@@ -95,3 +95,27 @@
  <img width="100%" src="https://camo.githubusercontent.com/4cbfc234802b906013484b1039a99380184d43ad450ac28f244950299eff7579/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302677696474683d31303076772673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#936ab1&amp;height=120&amp;section=footer" style="max-width: 100%;">
 
 
+
+----
+
+<!-- GitHub Profile README.md -->
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
+	<div style="flex: 1; min-width: 30%; margin: 1%; background-color: #fff5b1; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
+	  <h3>Card 1</h3>
+	  <p>Details about card 1.</p>
+	</div>
+  
+	<div style="flex: 1; min-width: 30%; margin: 1%; background-color: #b1f5ff; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
+	  <h3>Card 2</h3>
+	  <p>Details about card 2.</p>
+	</div>
+  
+	<div style="flex: 1; min-width: 30%; margin: 1%; background-color: #f5b1ff; padding: 20px; border-radius: 8px; border: 1px solid #ddd;">
+	  <h3>Card 3</h3>
+	  <p>Details about card 3.</p>
+	</div>
+  
+  </div>
+  
