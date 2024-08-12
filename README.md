@@ -102,15 +102,15 @@
 
 <table>
 	<tr>
-	  <td style="background-color:#d0e1f9; padding:10; border-radius:8;">
+	  <td style="background-color:#d0e1f9; padding:5; border-radius:8;">
 		<h3>Column 1</h3>
 		<p>Content for the first column.</p>
 	  </td>
-	  <td style="background-color:teal; padding:10; border-radius:8;">
+	  <td style="background-color:teal; padding:5; border-radius:8;">
 		<h3>Column 2</h3>
 		<p>Content for the second column.</p>
 	  </td>
-	  <td style="background:#d0f9d6; padding:10; border-radius:8;">
+	  <td style="background:#d0f9d6; padding:5; border-radius:8;">
 		<h3>Column 3</h3>
 		<p>Content for the third column.</p>
 	  </td>
