@@ -100,10 +100,6 @@
 
 <!-- GitHub Profile README.md -->
 
-
-
-
-
 <table style="width: 100%; border-collapse: collapse;">
 	<tr>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -156,7 +152,6 @@
 		  <img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="Image 1" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
-	  
 	</tr>
   </table>
   
