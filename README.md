@@ -21,7 +21,7 @@
 
 <h1 align="center"> A passionate Web developer from Bangladesh<h1/>
 
-
+<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 
 <h3 align="center">🌐 Social Media:</h3>
@@ -41,8 +41,6 @@
 <a hrref="https://www.youtube.com/@abdulmazidakash" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="youtube" width="50" height="50"/> </a>
 
 </p>-->
-
-
 
 <table style="width: 100%; border-collapse: collapse;">
 	<caption style="caption-side: top; font-weight: bold; font-size: 1.2em; padding: 10px;">My Responsive Table Caption</caption>
