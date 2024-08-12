@@ -100,16 +100,37 @@
 
 <!-- GitHub Profile README.md -->
 
-<div style="display: grid; grid-template-columns: repeat(10, 1fr); gap: 10px;">
-	<div style="background-color: lightblue;">Column 1</div>
-	<div style="background-color: lightgreen;">Column 2</div>
-	<div style="background-color: lightgreen;">Column 3</div>
-	<div style="background-color: lightgreen;">Column 4</div>
-	<div style="background-color: lightgreen;">Column 5</div>
-	<div style="background-color: lightgreen;">Column 6</div>
-	<div style="background-color: lightgreen;">Column 7</div>
-	<div style="background-color: lightgreen;">Column 8</div>
-	<div style="background-color: lightgreen;">Column 9</div>
-	<div style="background-color: lightgreen;">Column 10</div>
-	</div>
-  
+<table style="width: 100%; border-collapse: collapse; margin: 0 auto;">
+	<tr>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">1</h3>
+	  </td>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">2</h3>
+	  </td>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">3</h3>
+	  </td>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">4</h3>
+	  </td>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">5</h3>
+	  </td>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">6</h3>
+	  </td>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">7</h3>
+	  </td>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">8</h3>
+	  </td>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">9</h3>
+	  </td>
+	  <td style="width: 10%; padding: 10px; background-color: #d0e1f9; border: 1px solid #ccc;">
+		<h3 style="margin: 0;">10</h3>
+	  </td>
+	</tr>
+  </table>
