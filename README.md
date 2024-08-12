@@ -102,13 +102,17 @@
 
 <table>
 	<tr>
-	  <td style="background-color:#f0f0f0; padding:10px; border-radius:8px;">
+	  <td style="background-color:#d0e1f9; padding:10px; border-radius:8px;">
 		<h3>Column 1</h3>
 		<p>Content for the first column.</p>
 	  </td>
-	  <td style="background-color:#e0e0e0; padding:10px; border-radius:8px;">
+	  <td style="background-color:#f9d0d0; padding:10px; border-radius:8px;">
 		<h3>Column 2</h3>
 		<p>Content for the second column.</p>
+	  </td>
+	  <td style="background-color:#d0f9d6; padding:10px; border-radius:8px;">
+		<h3>Column 3</h3>
+		<p>Content for the third column.</p>
 	  </td>
 	</tr>
   </table>
