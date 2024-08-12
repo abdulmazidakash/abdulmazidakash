@@ -52,7 +52,7 @@
 
 
 <table style="width: 100%; border-collapse: collapse;">
-	<caption style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;">My Responsive Table Caption</caption>
+	<h3 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;">Social Media</h3>
 	<tbody>
 	  <tr>
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -116,7 +116,7 @@
 <hr/>
 
 <table style="width: 100%; border-collapse: collapse;">
-	<caption style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;">Language and Tools</caption>
+	<h3 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;">Language and Tools</h3>
 	<tbody>
 	<tr>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
