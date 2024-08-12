@@ -50,6 +50,7 @@
 <hr/>
 <h3 style="width: 100%; border-collapse: collapse;">Social Media</h3>
 <table style="width: 100%; border-collapse: collapse;">
+	<caption style="caption-side: top; font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; margin-bottom: 5px; width: 100%; box-sizing: border-box;">Social Media</caption>
 	<tbody>
 	  <tr>
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
