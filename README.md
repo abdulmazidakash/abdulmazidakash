@@ -50,7 +50,7 @@
 <hr/>
 
 <table style="width: 100%; border-collapse: collapse;">
-	<h3 align="center">Social Media</h3>
+	<caption style="width: 100%; margin-bottom: 5; text-align: center; padding: 0; border: 1px solid #ccc; font-size: 2rem;">Social Media</caption>
 	<tbody>
 	  <tr>
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -114,7 +114,7 @@
 <hr/>
 
 <table style="width: 100%; border-collapse: collapse;">
-	<h3 align="center">Languages and Tools</h3>
+	<caption style="width: 100%; margin-bottom: 5; text-align: center; padding: 0; border: 1px solid #ccc; font-size: 2rem;">Language and Tools</caption>
 	<tbody>
 	<tr>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
