@@ -20,7 +20,9 @@
 <br/>
 
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
-#A passionate Web developer from Bangladesh
+<p>A passionate Web developer from Bangladesh</p>
+
+<hr/>
 
 <table style="width: 100%; border-collapse: collapse;">
 	<caption style="caption-side: top; font-weight: bold; font-size: 1.2em; padding: 10px;">Social Media</caption>
