@@ -25,7 +25,7 @@
 <hr/>
 
 <table style="width: 100%; border-collapse: collapse;">
-	<caption style="caption-side: top; font-weight: bold; font-size: 1.2em; padding: 10px;">Social Media</caption>
+	<h3 align="center">Social Media</h3>
 	<tbody>
 	  <tr>
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
