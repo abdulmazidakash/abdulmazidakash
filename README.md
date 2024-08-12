@@ -101,7 +101,7 @@
 <!-- GitHub Profile README.md -->
 
 <table style="width: 100%; border-collapse: collapse;">
-	<caption style="caption-side: top; font-weight: bold; font-size: 1.2em; padding: 10px;">My Responsive Table Caption</caption>
+	<caption align="center" style="caption-side: top; font-weight: bold; font-size: 1.2em; padding: 10px;">My Responsive Table Caption</caption>
 	<tbody>
 	  <tr>
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
