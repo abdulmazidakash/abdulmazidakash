@@ -19,7 +19,7 @@
 </h3>
 <br/>
 
-###A passionate Web developer from Bangladesh
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 #A passionate Web developer from Bangladesh
 
 <table style="width: 100%; border-collapse: collapse;">
