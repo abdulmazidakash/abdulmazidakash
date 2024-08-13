@@ -106,7 +106,7 @@
 		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Quora</td>
 		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Reddit</td>
 		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">X</td>
-		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Youtube</td>
+		  <td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 0 0 15px 0">Youtube</td>
 		</tr>
 	  </tfoot>
   </table>
