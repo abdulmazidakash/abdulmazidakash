@@ -53,7 +53,7 @@
 
 
 <table style="width: 100%; border-collapse: collapse;">
-	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&pause=1000&color=0CF574&width=500&height=70&lines=Social+Media" alt="Typing SVG" /></a></h2>
+	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=0CF574&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" /></a></h2>
 	<tbody>
 	  <tr>
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
