@@ -222,5 +222,67 @@
 
  <img width="100%" src="https://camo.githubusercontent.com/4cbfc234802b906013484b1039a99380184d43ad450ac28f244950299eff7579/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302677696474683d31303076772673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#936ab1&amp;height=120&amp;section=footer" style="max-width: 100%;">
 
-
+<table style="width: 100%; border-collapse: separate; border-spacing: 0; border-radius: 15px; overflow: hidden; border: 1px solid #ccc;">
+	<caption style="width: 100%; margin-bottom: 5px; text-align: center; padding: 5px; font-size: 2rem; border-radius: 15px 15px 0 0; border: 1px solid #ccc;">
+	  My Responsive Table Caption
+	</caption>	
+	<tbody>
+	  <tr>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.facebook.com/akashabdulmazid/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=EToCOnh3V4mw&format=png&color=006d32" alt="facebook" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.instagram.com/abdulmazidakash/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=7QPcOVZoGlmf&format=png&color=006d32" alt="Instagram" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.linkedin.com/in/abdulmazidakash/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=006d32" alt="linkedin" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.pinterest.com/abdulmazidakash/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=MdnNNggD2aK2&format=png&color=006d32" alt="pinterest" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.quora.com/profile/Abdul-Mazid-Akash" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=lCfhaWxx33oY&format=png&color=006d32" alt="quora" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.reddit.com/user/abdulmazidakash/" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=IsfFxUYvG2ht&format=png&color=006d32" alt="reddit" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://x.com/abdulmazidakash" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=006d32" alt="x" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+		  </a>
+		</td>
+		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
+		  <a href="https://www.youtube.com/@abdulmazidakash" style="display: block; padding: 0; background-color: #d0e1f9; text-decoration: none;">
+			<img src="https://img.icons8.com/?size=100&id=3tuajqTRBEqf&format=png&color=006d32" alt="youtube" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+		  </a>
+		</td>
+	  </tr>
+	</tbody>
+	
+	<tfoot>
+	  <tr>
+		<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 0 0 0 15px;">Facebook</td>
+		<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Instagram</td>
+		<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">LinkedIn</td>
+		<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Pinterest</td>
+		<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Quora</td>
+		<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">Reddit</td>
+		<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">X</td>
+		<td style="width: 12.5%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc; border-radius: 0 0 15px 0;">YouTube</td>
+	  </tr>
+	</tfoot>
+  </table>
+  
 
