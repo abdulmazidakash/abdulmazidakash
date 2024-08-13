@@ -13,7 +13,7 @@
 
 <hr/>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=0CF574&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Abdul+Mazid+Akash" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Abdul+Mazid+Akash" alt="Typing SVG" /></a></h3>
 
 <h1 align="center">A passionate Web developer from Bangladesh</h1>
 
@@ -48,7 +48,7 @@
 
 
 <table style="width: 100%; border-collapse: collapse;">
-	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=0CF574&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" /></a></h2>
+	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" /></a></h2>
 	<tbody>
 	  <tr>
 		<td style="width: 12.5%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -112,7 +112,7 @@
 <hr/>
 
 <table style="width: 100%; border-collapse: collapse;">
-	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=0CF574&center=true&vCenter=true&width=500&height=70&lines=Language+and+Tools" alt="Typing SVG" /></a></h2>
+	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Language+and+Tools" alt="Typing SVG" /></a></h2>
 	<tbody>
 	<tr>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -191,7 +191,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=0CF574&center=true&vCenter=true&width=500&height=70&lines=Github+Stats" alt="Typing SVG" /></a></h2>
+<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 2px solid #4CAF50; background-color: #e8f5e9; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Github+Stats" alt="Typing SVG" /></a></h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false)<br/>
