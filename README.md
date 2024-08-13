@@ -51,7 +51,7 @@
 
 
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse; border-radius: 10px;">
 	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;">Social Media</h2>
 	<tbody>
 	  <tr>
