@@ -15,8 +15,6 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=0CF574&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Abdul+Mazid+Akash" alt="Typing SVG" /></a></h3>
 
-<br/>
-
 <h1 align="center">A passionate Web developer from Bangladesh</h1>
 
 <p>👋 Hi there! I'm Abdul Mazid Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.</p>
