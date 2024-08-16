@@ -218,3 +218,17 @@
  -->
 
  <img width="100%" src="https://camo.githubusercontent.com/4cbfc234802b906013484b1039a99380184d43ad450ac28f244950299eff7579/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302677696474683d31303076772673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=#936ab1&amp;height=120&amp;section=footer" style="max-width: 100%;">
+
+ <div style="display: grid; grid-template-columns: 1fr 1.2fr 1fr; gap: 10px;">
+
+<div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%; display: block;">
+</div>
+<div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden; width: 100%; box-sizing: border-box;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false" alt="GitHub Streak" style="width: 100%; display: block;">
+</div>
+<div style="border: 1px solid #ccc; border-radius: 10px; overflow: hidden;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%; display: block;">
+</div>
+
+</div>
