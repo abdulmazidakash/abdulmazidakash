@@ -45,7 +45,7 @@
 
 <hr/>
 
-
+<!--social media table-->
 
 <table style="width: 100%; border-collapse: collapse;">
 	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Social+Media" alt="Typing SVG" /></a></h2>
@@ -111,6 +111,8 @@
 <br/>
 <hr/>
 
+<!--programming language and tools-->
+
 <table style="width: 100%; border-collapse: collapse;">
 	<h2 align="center" style="font-weight: bold; font-size: 1.2em; padding: 10px; border: 1px solid #ccc; background-color: teal; color: #4CAF50; text-align: center; margin-bottom: 5px; width: 100%; box-sizing: border-box;"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Language+and+Tools" alt="Typing SVG" /></a></h2>
 	<tbody>
@@ -122,17 +124,17 @@
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://www.w3schools.com/css/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="instagram" style="width: 100%; height: auto; display: block;">
+		  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://getbootstrap.com" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://camo.githubusercontent.com/9ee806be83385d8b6a369a74cb1fc746644521a279ba959174ce5b9e75caf384/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" alt="bootstrap" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" alt="bootstrap" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="javascript" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" alt="javascript" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -147,7 +149,7 @@
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
 		<a href="https://reactjs.org/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-		  <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="react" style="width: 100%; height: auto; display: block;">
+		  <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" alt="react" style="width: 100%; height: auto; display: block;">
 		</a>
 	  </td>
 	  <td style="width: 10%; text-align: center; padding: 0; border: 1px solid #ccc;">
