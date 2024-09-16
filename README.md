@@ -199,10 +199,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<!--
 | Stats    | Streak    |
 | :---: | :---: |
 |<a href="https://github.com/OsamaAlmamri"><img alt="OsamaAlmamri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OsamaAlmamri&show_icons=true&count_private=true&show_owner=true" height="190px"/></a>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=OsamaAlmamri&show_owner=true" alt="OsamaAlmamri"/>|
-
+ -->
 
 
 <!--
