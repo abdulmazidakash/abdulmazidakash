@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Hey There 👋 This is Abdul Mazid Akash<br>Frontend Developer.</h2>
+<h1 align="center">Hey There 👋 This is Abdul Mazid Akash<br>Frontend Developer.</h1>
 
 ###
 
