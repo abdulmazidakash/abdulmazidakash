@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Abdul Mazid Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.<br><br>- 📚 I'm currently learning NextJS.<br>- 🎯Goals: Improve full-stack development skills.<br>- 🎲 Fun fact: I love playing cricket and badminton.<br>- 📞 Contact Number: +08801882185628</p>
+<p align="left">👋 Hi there! I'm Abdul Mazid Akash, a passionate and experienced front-end web developer dedicated to building stunning and functional web experiences. With a strong background in modern front-end technologies, I excel at creating responsive, interactive, and user-centered interfaces that make a lasting impact.<br><br>- 📚 I'm currently learning NextJS.<br>- 🎯Goals: Improve full-stack development skills.<br>- 🎲 Fun fact: I love playing cricket and badminton.<br>- 📞 Contact Number: +8801882185628</p>
 
 ###
 
