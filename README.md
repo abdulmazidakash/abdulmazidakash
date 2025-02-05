@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="center">📲 Social Links</h3>
+<h2 align="center">📲 Social Links</h2>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h2 align="center">🔥   My Stats :</h2>
 
 ###
 
