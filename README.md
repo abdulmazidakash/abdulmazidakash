@@ -2,7 +2,8 @@
 
 <!-- cover image  -->
 <div align="center">
-  <img height="350" width="80%" src="https://i.ibb.co.com/W4LQM20m/Fiverr.jpg"  />
+  <!--<img height="350" width="80%" src="https://i.ibb.co.com/W4LQM20m/Fiverr.jpg"  />-->
+  <img height="350" width="80%" src="https://media.licdn.com/dms/image/v2/D5616AQFZKKGg5LwGxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739165761153?e=1747872000&v=beta&t=XGi1OlZlNqh2Y208eh79fcLMfL5mr5jXrGcG_we3J3c"  />
 </div>
 
 <!-- readme typing svg  -->
