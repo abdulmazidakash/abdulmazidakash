@@ -4,7 +4,7 @@
 <div align="center">
   <!--<img height="350" width="80%" src="https://i.ibb.co.com/W4LQM20m/Fiverr.jpg"  />-->
 <!--   <img height="250" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQFZKKGg5LwGxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739165761153?e=1754524800&v=beta&t=lJJ-eobIBeEQaPeD2yAEFKRBjmAwSuihObzeJ-ZXWJ0"  /> -->
-  <img height="250" width="100%" src="[https://media.licdn.com/dms/image/v2/D5616AQFZKKGg5LwGxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739165761153?e=1754524800&v=beta&t=lJJ-eobIBeEQaPeD2yAEFKRBjmAwSuihObzeJ-ZXWJ0](https://media.licdn.com/dms/image/v2/D5616AQFZKKGg5LwGxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739165761153?e=1758153600&v=beta&t=p3Deyd5nl1g2yFIgjCaefyAbwJVdwYp0nabJx9UnS00)"  />
+  <img height="250" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQFZKKGg5LwGxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739165761153?e=1758153600&v=beta&t=p3Deyd5nl1g2yFIgjCaefyAbwJVdwYp0nabJx9UnS00"  />
 </div>
 
 <!-- readme typing svg  -->
