@@ -9,7 +9,7 @@
 
 <!-- readme typing svg  -->
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Assalamualaikum;This+is+Abdul+Mazid+Akash" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://media.licdn.com/dms/image/v2/D5616AQFZKKGg5LwGxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739165761153?e=1772668800&v=beta&t=gwk74C_cZIQgbesMtPKhmDNDZJHoWZT0ZyWyu7EipYw" alt="Typing SVG" /></a></h3>
 
 <!-- about me section  -->
 
