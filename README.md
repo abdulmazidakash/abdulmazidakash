@@ -168,7 +168,7 @@ Full-Stack developer with hands-on experience building responsive web applicatio
       </td>
       <td style="width: 20%; text-align: center; padding: 0; border: 1px solid #ccc;">
         <a href="https://github.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" style="width: 100%; height: auto; display: block;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" style="width: 50%; height: auto; display: block;">
         </a>
       </td>
       <td style="width: 20%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -178,7 +178,7 @@ Full-Stack developer with hands-on experience building responsive web applicatio
       </td>
       <td style="width: 20%; text-align: center; padding: 0; border: 1px solid #ccc;">
         <a href="https://code.visualstudio.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" style="width: 100%; height: auto; display: block;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" style="width: 50%; height: auto; display: block;">
         </a>
       </td>
       <td style="width: 20%; text-align: center; padding: 0; border: 1px solid #ccc;">
