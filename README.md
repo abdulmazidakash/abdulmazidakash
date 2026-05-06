@@ -45,13 +45,13 @@ Frontend developer with hands-on experience building responsive, full-stack web 
 Full-stack platform for creating, discovering, and managing public/private events with role-based access, Stripe payments, and an invitation system.
 `Next.js` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `Stripe` · [Live Demo](https://planora-frontend-5.vercel.app)
 
-### 🔹 [Project Name](https://github.com/abdulmazidakash/your-repo)
-A brief 1–2 line description of what the project does and what problem it solves.
-`React` `Node.js` `MongoDB` · [Live Demo](https://your-live-link.com)
+### 🔹 [FoodHub – Meal Ordering Platform](https://github.com/abdulmazidakash/next-level-assignment-04)
+Full-stack meal ordering app with role-based access for Customers, Providers, and Admins — covering menu management, order tracking, and reviews.
+`Next.js` `TypeScript` `Node.js` `Prisma` `PostgreSQL` `ShadCN UI` · [Live Demo](https://assignment-frontend-seven-ecru.vercel.app)
 
-### 🔹 [Project Name](https://github.com/abdulmazidakash/your-repo)
-A brief 1–2 line description of what the project does and what problem it solves.
-`JavaScript` `CSS` `MongoDB` · [Live Demo](https://your-live-link.com)
+### 🔹 [ScholarshipHub – Scholarship Management System](https://github.com/abdulmazidakash/c-assignment-12-client-side)
+Platform that helps students search for suitable universities and scholarships, with role-based access for users and admins to manage applications end-to-end.
+`React` `Node.js` `MongoDB` `Express.js` `Firebase` `Tailwind CSS`
 
 ---
 
