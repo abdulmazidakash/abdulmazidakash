@@ -36,16 +36,6 @@ Full-Stack developer with hands-on experience building responsive web applicatio
   <tbody>
     <tr>
       <td style="width: 11%; text-align: center; padding: 0; border: 1px solid #ccc;">
-        <a href="https://www.w3.org/html/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 100%; height: auto; display: block;">
-        </a>
-      </td>
-      <td style="width: 11%; text-align: center; padding: 0; border: 1px solid #ccc;">
-        <a href="https://www.w3schools.com/css/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 100%; height: auto; display: block;">
-        </a>
-      </td>
-      <td style="width: 11%; text-align: center; padding: 0; border: 1px solid #ccc;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: block; padding: 10px; background-color: #d0e1f9;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 100%; height: auto; display: block;">
         </a>
@@ -84,8 +74,6 @@ Full-Stack developer with hands-on experience building responsive web applicatio
   </tbody>
   <tfoot>
     <tr>
-      <td style="width: 11%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">HTML</td>
-      <td style="width: 11%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">CSS</td>
       <td style="width: 11%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">JavaScript</td>
       <td style="width: 11%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">TypeScript</td>
       <td style="width: 11%; text-align: center; padding: 10px; background-color: #f9f9f9; border: 1px solid #ccc;">React</td>
@@ -168,7 +156,7 @@ Full-Stack developer with hands-on experience building responsive web applicatio
       </td>
       <td style="width: 20%; text-align: center; padding: 0; border: 1px solid #ccc;">
         <a href="https://github.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" style="width: 50%; height: auto; display: block;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" style="width: 25%; height: auto; display: block;">
         </a>
       </td>
       <td style="width: 20%; text-align: center; padding: 0; border: 1px solid #ccc;">
@@ -178,7 +166,7 @@ Full-Stack developer with hands-on experience building responsive web applicatio
       </td>
       <td style="width: 20%; text-align: center; padding: 0; border: 1px solid #ccc;">
         <a href="https://code.visualstudio.com/" style="display: block; padding: 10px; background-color: #d0e1f9;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" style="width: 50%; height: auto; display: block;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" style="width: 25%; height: auto; display: block;">
         </a>
       </td>
       <td style="width: 20%; text-align: center; padding: 0; border: 1px solid #ccc;">
