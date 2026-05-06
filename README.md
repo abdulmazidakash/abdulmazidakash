@@ -1,6 +1,6 @@
 <!-- cover image -->
 <div align="center">
-  <img height="250" width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQFZKKGg5LwGxg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739165761153?e=1768435200&v=beta&t=mvm5HQ592JlvHB5Ia-NiLc8j__lbDkBzaZEbNJ5LrCw" />
+  <img height="250" width="100%" src="YOUR_BANNER_IMAGE_URL" />
 </div>
 
 <div align="center">
@@ -84,22 +84,19 @@ Platform that helps students search for suitable universities and scholarships, 
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda+SC&weight=900&duration=4000&pause=1000&color=60AEFF&center=true&vCenter=true&width=500&height=70&lines=Github+Stats" alt="Typing SVG" /></a></h2>
 
-<!-- github stats -->
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulmazidakash&theme=blue-green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmazidakash&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
 <hr/>
 
-<!-- snake svg image -->
+<!-- snake contribution graph -->
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
