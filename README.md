@@ -58,7 +58,7 @@ Full-Stack developer with hands-on experience building responsive web applicatio
 
 **🛠️ Tools**
 
-<p align="center">
+<p align="flex">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>&nbsp;&nbsp;
