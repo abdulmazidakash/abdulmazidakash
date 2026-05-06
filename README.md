@@ -1,6 +1,6 @@
 <!-- cover image -->
 <div align="center">
-  <img height="250" width="100%" src="YOUR_BANNER_IMAGE_URL" />
+  [<img height="250" width="100%" src="YOUR_BANNER_IMAGE_URL" />](https://i.ibb.co.com/vxG64Qwp/github-banner-image-02.png)
 </div>
 
 <div align="center">
